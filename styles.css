@@ -1,0 +1,24 @@
+
+h3{
+    color: mediumpurple;
+}
+
+.header{
+    background-color: lightblue;
+}
+
+
+.last-section{
+    background-color:#e8c8df;
+}
+
+#main-picture{
+    background-image: url('images/bg-food.jpeg');
+     background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#enjoy{
+    color: orangered;
+    background-color: bisque;
+}
